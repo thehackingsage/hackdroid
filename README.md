@@ -8,7 +8,9 @@ HackDroid is a collection of 250+ Penetration Testing and Ethical Hacking Apps f
 
 <p align="center"><img src="https://github.com/thehackingsage/hackdroid/blob/master/hackdroid.png?raw=true" /></p>
 
-``` NOTE : I Don't Have Any Copyright For Any Application.. Copyright Of All Applications Support Their Owners.. & Please Don't Misuse... ```
+*NOTE : I Don't Have Any Copyright For Any Application.. Copyright Of All Applications Support Their Owners..*
+
+**& Please Don't Misuse..**
 
 ### HackDroid Menu :
  
@@ -37,7 +39,7 @@ HackDroid is a collection of 250+ Penetration Testing and Ethical Hacking Apps f
  - Whatsapp
  - Wireless
 
-### Download All Apps : [Pentesting Apps for Android.zip](https://mega.nz/#!mE9nmBpa!RY5IWGCcrc_QErAkg9ovkWwD2F2kziKVLTZM1rMHZxQ) (683MB)
+**Download All Apps : [Pentesting Apps for Android.zip](https://mega.nz/#!mE9nmBpa!RY5IWGCcrc_QErAkg9ovkWwD2F2kziKVLTZM1rMHZxQ) (683MB)**
 
 ### Video : Coming Soon
 
