@@ -1,12 +1,12 @@
 #### <p align="center">Project HackDroid - Pentesting Apps For Android by Mr. SAGE</P>
 
+<p align="center"><img src="https://github.com/thehackingsage/hackdroid/blob/master/hackdroid.png?raw=true" /></p>
+
 #### <p align="center">Github.com/thehackingsage | Instagram.com/thehackingsage | Twitter.com/thehackingsage</p>
 
 ### What is HackDroid ?
 
 HackDroid is a collection of 250+ Penetration Testing and Ethical Hacking Apps for Android... in this, The Applications is divided into different categories so You can Download any App from any Category and Use it.. 
-
-<p align="center"><img src="https://github.com/thehackingsage/hackdroid/blob/master/hackdroid.png?raw=true" /></p>
 
 *NOTE : I Don't Have Any Copyright For Any Application.. Copyright Of All Applications Support Their Owners..*
 
@@ -39,7 +39,9 @@ HackDroid is a collection of 250+ Penetration Testing and Ethical Hacking Apps f
  - Whatsapp
  - Wireless
 
-**Download All Apps : [Pentesting Apps for Android.zip](https://mega.nz/#!mE9nmBpa!RY5IWGCcrc_QErAkg9ovkWwD2F2kziKVLTZM1rMHZxQ) (683MB)**
+### How To Download? :
+
+Dpen This Link [Pentesting Apps for Android](https://mega.nz/#F!jddEnKgY!ELvIqtW1xzDFwn3ZhpXBWQ) and Click On Download As Zip Option..
 
 ### Video : Coming Soon
 
