@@ -41,7 +41,7 @@ HackDroid is a collection of 250+ Penetration Testing and Ethical Hacking Apps f
 
 ### How To Download? :
 
-Dpen This Link [Pentesting Apps for Android](https://mega.nz/#F!jddEnKgY!ELvIqtW1xzDFwn3ZhpXBWQ) and Click On Download As Zip Option..
+Open This Link [Pentesting Apps for Android](https://mega.nz/#F!jddEnKgY!ELvIqtW1xzDFwn3ZhpXBWQ) and Click On Download As Zip Option..
 
 ### Video : Coming Soon
 
