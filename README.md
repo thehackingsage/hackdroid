@@ -2,6 +2,8 @@
 
 <p align="center"><img src="https://github.com/thehackingsage/hackdroid/blob/master/hackdroid.png?raw=true" /></p>
 
+<p align="center"><a href="https://tracking.gitads.io/?repo=hacktronian"><img src="https://images.gitads.io/hacktronian" alt="GitAds"/></a></p>
+
 #### <p align="center">Github.com/thehackingsage | Instagram.com/thehackingsage | Twitter.com/thehackingsage</p>
 
 ### What is HackDroid ?
