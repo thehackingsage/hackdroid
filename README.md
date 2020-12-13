@@ -1,20 +1,28 @@
-#### <p align="center">Project HackDroid - Pentesting Apps For Android by Mr. SAGE</P>
+<p align="center"><img src="https://github.com/thehackingsage/hackdroid/blob/master/hackdroid_logo.png?raw=true" /></p>
 
-<p align="center"><img src="https://github.com/thehackingsage/hackdroid/blob/master/hackdroid.png?raw=true" /></p>
+#### <p align="center">https://thehackingsage.github.io/hackdroid</p>
 
-<p align="center"><a href="https://tracking.gitads.io/?repo=hacktronian"><img src="https://images.gitads.io/hacktronian" alt="GitAds"/></a></p>
+## What is HackDroid ?
 
-#### <p align="center">Github.com/thehackingsage | Instagram.com/thehackingsage | Twitter.com/thehackingsage</p>
+Hackdroid is a collection of pentesting and security related apps for android. The applications is divided into different categories so you can easily download any application from any category and use them for penetration testing and ethical hacking.
 
-### What is HackDroid ?
+- Android Apps : 250+ apps in 20+ categories like wifi, hid, mitm, sniffing, etc.
+- OS / Platform : hacking operating system (rom) and platforms for android.
+- Blog : useful articles related to hacking with android.
 
-HackDroid is a collection of 250+ Penetration Testing and Ethical Hacking Apps for Android... in this, The Applications is divided into different categories so You can Download any App from any Category and Use it.. 
+## Some important things that you should take care of before starting :
 
-*NOTE : I Don't Have Any Copyright For Any Application.. Copyright Of All Applications Support Their Owners..*
+- Most applications will required root permissions so you can install Magisk to root your device or you can also search on Google or XDA Forum for how you can root your device.
 
-**& Please Don't Misuse..**
+- Never use your primery device for hacking because it is possible that the creators of the application or those who modified it have already put malware on it to steal your personal data. so you will think that with the help of this application you will hack something, but instead of that you are being hacked.
 
-### HackDroid Menu :
+- Most apps will be outdated but i try my best to provide the latest version of the application asap.
+
+- I don't have any copyright for any application. the copyright of all applications support their owners.
+
+- Don't do anything stupid or illegal. I'm sharing all this information keeping in mind the purpose of penetration testing and ethical hacking not illegal hacking activity so please don't misuse.
+
+## Apps Categories :
  
  - Anonymity
  - App Store
@@ -41,20 +49,8 @@ HackDroid is a collection of 250+ Penetration Testing and Ethical Hacking Apps f
  - Whatsapp
  - Wireless
 
-### How To Download? :
-
-Open This Link [Pentesting Apps for Android](https://mega.nz/#F!jddEnKgY!ELvIqtW1xzDFwn3ZhpXBWQ) and Click On Download As Zip Option..
+### Download Links : Coming Soon
 
 ### Video : Coming Soon
 
-### License :
-
-[MIT Licence](https://github.com/thehackingsage/hackdroid/blob/master/LICENSE)
-
-Thats It... If You Like This Repo. Please Share This With Your Friends..
-
-& Don't Forget To Follow Me At [Twitter](https://www.twitter.com/thehackingsage), [Instagram](https://www.instagram.com/thehackingsage), [Github](https://www.github.com/thehackingsage) & SUBSCRIBE My [YouTube](https://www.youtube.com/channel/UCYK1n9A4TUq1CvGc6F3DzoA) Channel..!!!
-
-***Thankyou.***
-***Keep Visiting..***
-***Enjoy.!!! :)***
+***Happy Hacking !!!***
