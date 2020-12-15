@@ -1,7 +1,5 @@
 <p align="center"><img src="https://github.com/thehackingsage/hackdroid/blob/master/hackdroid_logo.png?raw=true" /></p>
 
-#### <p align="center">https://thehackingsage.github.io/hackdroid</p>
-
 ## What is HackDroid?
 
 Hackdroid is a collection of pentesting and security related apps for android. The applications are divided into different categories so you can easily download any application from any category and use them for penetration testing and ethical hacking.
