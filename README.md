@@ -1,3 +1,4 @@
+<p align="center"><img src="https://github.com/thehackingsage/hackdroid/blob/master/notification.svg?raw=true" /></p>
 <p align="center"><img src="https://github.com/thehackingsage/hackdroid/blob/master/hackdroid_logo.png?raw=true" /></p>
 
 ## What is HackDroid?
