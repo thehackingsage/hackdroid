@@ -1,0 +1,78 @@
+
+<svg fill="none" viewBox="0 0 800 100" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                .container {
+                    border-radius: 2px;
+                    padding: 16px 16px;
+                    background-color: #FFD2D2;
+                    border: 1px solid rgb(216,0,12,0.2);
+                    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto;
+                }
+
+                .container svg {
+                    width: 16px;
+                    height: 16px;
+                    vertical-align: text-top;
+                }
+
+                .container .message {
+                    color: #D8000C;
+                    font-size: 1.2rem;
+                    margin-left: 1rem;
+                }
+            </style>
+            <div class="container">
+                <div class="header">
+                    <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg"
+                        xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 512 512" fill="#D8000C"
+                        style="enable-background:new 0 0 512 512;" xml:space="preserve">
+                        <g>
+                            <g>
+                                <path d="M501.609,384.603L320.543,51.265c-13.666-23.006-37.802-36.746-64.562-36.746c-26.76,0-50.896,13.74-64.562,36.746
+			c-0.103,0.176-0.19,0.352-0.293,0.528L10.662,384.076c-13.959,23.491-14.223,51.702-0.719,75.457
+			c13.535,23.769,37.919,37.948,65.266,37.948h360.544c27.347,0,52.733-14.179,66.267-37.948
+			C515.524,435.779,515.261,407.566,501.609,384.603z M225.951,167.148c0-16.586,13.445-30.03,30.03-30.03
+			c16.586,0,30.03,13.445,30.03,30.03v120.121c0,16.584-13.445,30.03-30.03,30.03s-30.03-13.447-30.03-30.03V167.148z
+			 M255.981,437.421c-24.839,0-45.046-20.206-45.046-45.046c0-24.839,20.206-45.045,45.046-45.045
+			c24.839,0,45.045,20.206,45.045,45.045C301.027,417.214,280.821,437.421,255.981,437.421z" />
+                            </g>
+                        </g>
+                        <g>
+                        </g>
+                        <g>
+                        </g>
+                        <g>
+                        </g>
+                        <g>
+                        </g>
+                        <g>
+                        </g>
+                        <g>
+                        </g>
+                        <g>
+                        </g>
+                        <g>
+                        </g>
+                        <g>
+                        </g>
+                        <g>
+                        </g>
+                        <g>
+                        </g>
+                        <g>
+                        </g>
+                        <g>
+                        </g>
+                        <g>
+                        </g>
+                        <g>
+                        </g>
+                    </svg>
+                    <span class="message">The project is temporarily down due to takedown notice but it'll be updated soon !!!</span>
+                </div>
+            </div>
+        </div>
+    </foreignObject>
+</svg>
