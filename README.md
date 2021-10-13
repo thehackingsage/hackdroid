@@ -9,7 +9,7 @@ Hackdroid is a collection of pentesting and security related apps for android. T
 - OS / Platform: hacking operating system (ROM) and platforms for android.
 - Blog: useful articles related to hacking with android.
 
-<p align="center"><img src="https://github.com/thehackingsage/hackdroid/blob/master/hackdroid_logo.png?raw=true" /></p>
+<p align="center"><img src="https://github.com/thehackingsage/hackdroid/blob/master/hackdroid.png?raw=true" /></p>
 
 ## Some important things that you should take care of before starting :
 
@@ -23,7 +23,7 @@ Hackdroid is a collection of pentesting and security related apps for android. T
 
 - Don't do anything stupid or illegal. I'm sharing all this information keeping in mind the purpose of penetration testing and ethical hacking, not illegal hacking activity so please don't misuse.
 
-<p align="center"><img src="https://github.com/thehackingsage/hackdroid/blob/master/preview.png?raw=true" /></p>
+<p align="center"><img src="https://github.com/thehackingsage/hackdroid/blob/master/home.png?raw=true" /></p>
 
 ## Apps Categories :
  
