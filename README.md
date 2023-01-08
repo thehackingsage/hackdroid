@@ -1,57 +1,51 @@
-<p align="center"><img src="https://github.com/thehackingsage/hackdroid/blob/master/notification.svg?raw=true" /></p>
-<p align="center"><img src="https://github.com/thehackingsage/hackdroid/blob/master/logo.png?raw=true" /></p>
+<p align="center"><img src="https://hackdroid.in/assets/img/hackdroid/hackdroid.png"/></p>
 
 ## What is HackDroid?
 
-Hackdroid is a collection of pentesting and security related apps for android. The applications are divided into different categories so you can easily download any application from any category and use them for penetration testing and ethical hacking.
+Hackdroid is a collection of pentesting and security related apps for android. The applications are divided into different categories so you can easily download any application from any category and use them.
 
-- Android Apps: 250+ apps in 20+ categories like wifi, hid, MITM, sniffing, etc.
-- OS / Platform: hacking operating system (ROM) and platforms for android.
-- Blog: useful articles related to hacking with android.
+## Some important things you should know before starting :
 
-<p align="center"><img src="https://github.com/thehackingsage/hackdroid/blob/master/hackdroid.png?raw=true" /></p>
-
-## Some important things that you should take care of before starting :
-
-- Most applications will require root permissions so you can install Magisk to root your device or you can also search on Google or XDA Forum for how you can root your device.
-
-- Never use your primary device for hacking because it is possible that, the creators of the application or those who modified it have already put malware on it to steal your private data. so you will think that with the help of this application you will hack something, but instead of that, you are being hacked.
-
-- Most apps will be outdated but I try my best to provide the latest version of the application asap.
-
-- I don't have copyright for any application. the copyright of all applications supports their owners.
-
-- Don't do anything stupid or illegal. I'm sharing all this information keeping in mind the purpose of penetration testing and ethical hacking, not illegal hacking activity so please don't misuse.
-
-<p align="center"><img src="https://github.com/thehackingsage/hackdroid/blob/master/home.png?raw=true" /></p>
+- Most applications will require root permission.
+- Never use your primary device to use these applications.
+- I do not take any responsibility for whether these applications are safe to use or not. Use it at your own risk.
+- Some applications may be outdated. But I will try my best to provide the latest version of the application asap.
+- I don't have a copyright for any application. The copyright of all applications support their owners.
+- I am sharing these tools keeping in mind the purpose of ethical hacking and penetration testing and not illegal hacking activity. I am not responsible if you use these tools to do anything illegal.
 
 ## Apps Categories :
  
- - Anonymity
- - App Store
- - Call & SmS
- - CryptoCurrency
- - Cryptography
- - DDoS
- - Forensics
- - HID Attack
- - Learning
- - MITM
- - Networking
- - Pentesting
- - People & File Search
- - Remote Access
- - Router
- - Scripting
- - Security
- - Sniffing
- - Spy Camera
- - System Apps 
- - Terminal
- - Web
- - Whatsapp
- - Wireless
+- App Store : https://hackdroid.in/apps/app-store
+- Call & Sms : https://hackdroid.in/apps/call-and-sms
+- Cryptocurrency : https://hackdroid.in/apps/cryptocurrency
+- Cryptography : https://hackdroid.in/apps/cryptography
+- DoS : https://hackdroid.in/apps/dos
+- Forensics : https://hackdroid.in/apps/forensics
+- Game Hacking : https://hackdroid.in/apps/game-hacking
+- HID Attack : https://hackdroid.in/apps/hid-attack
+- IDE / Coding : https://hackdroid.in/apps/ide
+- Learning : https://hackdroid.in/apps/learning
+- MITM : https://hackdroid.in/apps/mitm
+- Nethunter : https://hackdroid.in/apps/nethunter
+- Networking : https://hackdroid.in/apps/networking
+- OSINT : https://hackdroid.in/apps/osint
+- Pentesting : https://hackdroid.in/apps/pentesting
+- Privacy : https://hackdroid.in/apps/privacy
+- Remote Access : https://hackdroid.in/apps/remote-access
+- RF-RTL-SDR : https://hackdroid.in/apps/rf-rtl-sdr
+- Security : https://hackdroid.in/apps/security
+- Sniffing : https://hackdroid.in/apps/sniffing
+- Spy-cam : https://hackdroid.in/apps/spy-cam
+- System-apps : https://hackdroid.in/apps/system-apps
+- Terminal : https://hackdroid.in/apps/terminal
+- Web : https://hackdroid.in/apps/web
+- Whatsapp : https://hackdroid.in/apps/whatsapp
+- Wireless : https://hackdroid.in/apps/wireless
 
-### Download Hackdroid.apk : Coming Soon
+## Platforms :
+
+- Kali Nethunter : https://hackdroid.in/platform/nethunter
+- Pwn Phone : https://hackdroid.in/platform/pwnphone
+- Andrax : https://hackdroid.in/platform/andrax
 
 ***Happy Hacking !!!***
