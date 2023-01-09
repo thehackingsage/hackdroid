@@ -1,6 +1,14 @@
-<p align="center"><img src="https://hackdroid.in/assets/img/hackdroid/hackdroid.png"/></p>
+<p align="center">
+	<a href="https://hackdroid.in"><img src="https://hackdroid.in/assets/img/hackdroid/logo.png" alt="HACKDROID"></a>
+</p>
 
-## What is HackDroid?
+<p align="center">
+	<a href="https://hackdroid.in" alt="Website"><img src="https://img.shields.io/badge/Website-Online-informational?style=flat&logo=android&logoColor=white&color=brightgreen"/></a>
+	<a href="https://hackdroid.in/apps/" alt="Apps"><img src="https://img.shields.io/badge/APK-364-informational?style=flat&logo=android&logoColor=white&color=green"/></a>
+	<a href="https://hackdroid.in/platform/" alt="Platform"><img src="https://img.shields.io/badge/Platform-3-informational?style=flat&logo=android&logoColor=white&color=red"/></a>
+</p>
+
+## HackDroid
 
 Hackdroid is a collection of pentesting and security related apps for android. The applications are divided into different categories so you can easily download any application from any category and use them.
 
@@ -47,5 +55,7 @@ Hackdroid is a collection of pentesting and security related apps for android. T
 - Kali Nethunter : https://hackdroid.in/platform/nethunter
 - Pwn Phone : https://hackdroid.in/platform/pwnphone
 - Andrax : https://hackdroid.in/platform/andrax
+
+Social Links : bit.ly/thehackingsage
 
 ***Happy Hacking !!!***
