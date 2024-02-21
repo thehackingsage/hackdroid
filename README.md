@@ -1,11 +1,13 @@
+
+
 <p align="center">
-	<a href="https://hackdroid.in"><img src="https://hackdroid.in/assets/img/hackdroid/logo.png" alt="HACKDROID"></a>
+	<a href="https://thehackingsage.com/hackdroid/"><img src="https://thehackingsage.com/hackdroid/assets/img/hackdroid/logo.png" alt="HACKDROID"></a>
 </p>
 
 <p align="center">
-	<a href="https://hackdroid.in" alt="Website"><img src="https://img.shields.io/badge/Website-Online-informational?style=flat&logo=android&logoColor=white&color=brightgreen"/></a>
-	<a href="https://hackdroid.in/apps/" alt="Apps"><img src="https://img.shields.io/badge/APK-364-informational?style=flat&logo=android&logoColor=white&color=green"/></a>
-	<a href="https://hackdroid.in/platform/" alt="Platform"><img src="https://img.shields.io/badge/Platform-3-informational?style=flat&logo=android&logoColor=white&color=red"/></a>
+	<a href="https://thehackingsage.com/hackdroid/" alt="Website"><img src="https://img.shields.io/badge/Website-Online-informational?style=flat&logo=android&logoColor=white&color=brightgreen"/></a>
+	<a href="https://thehackingsage.com/hackdroid/apps/" alt="Apps"><img src="https://img.shields.io/badge/APK-364-informational?style=flat&logo=android&logoColor=white&color=green"/></a>
+	<a href="https://thehackingsage.com/hackdroid/platform/" alt="Platform"><img src="https://img.shields.io/badge/Platform-3-informational?style=flat&logo=android&logoColor=white&color=red"/></a>
 </p>
 
 ## HackDroid
@@ -23,38 +25,38 @@ Hackdroid is a collection of pentesting and security related apps for android. T
 
 ## Apps Categories :
  
-- App Store : https://hackdroid.in/apps/app-store
-- Call & Sms : https://hackdroid.in/apps/call-and-sms
-- Cryptocurrency : https://hackdroid.in/apps/cryptocurrency
-- Cryptography : https://hackdroid.in/apps/cryptography
-- DoS : https://hackdroid.in/apps/dos
-- Forensics : https://hackdroid.in/apps/forensics
-- Game Hacking : https://hackdroid.in/apps/game-hacking
-- HID Attack : https://hackdroid.in/apps/hid-attack
-- IDE / Coding : https://hackdroid.in/apps/ide
-- Learning : https://hackdroid.in/apps/learning
-- MITM : https://hackdroid.in/apps/mitm
-- Nethunter : https://hackdroid.in/apps/nethunter
-- Networking : https://hackdroid.in/apps/networking
-- OSINT : https://hackdroid.in/apps/osint
-- Pentesting : https://hackdroid.in/apps/pentesting
-- Privacy : https://hackdroid.in/apps/privacy
-- Remote Access : https://hackdroid.in/apps/remote-access
-- RF-RTL-SDR : https://hackdroid.in/apps/rf-rtl-sdr
-- Security : https://hackdroid.in/apps/security
-- Sniffing : https://hackdroid.in/apps/sniffing
-- Spy-cam : https://hackdroid.in/apps/spy-cam
-- System-apps : https://hackdroid.in/apps/system-apps
-- Terminal : https://hackdroid.in/apps/terminal
-- Web : https://hackdroid.in/apps/web
-- Whatsapp : https://hackdroid.in/apps/whatsapp
-- Wireless : https://hackdroid.in/apps/wireless
+- App Store : https://thehackingsage.com/hackdroid/apps/app-store
+- Call & Sms : https://thehackingsage.com/hackdroid/apps/call-and-sms
+- Cryptocurrency : https://thehackingsage.com/hackdroid/apps/cryptocurrency
+- Cryptography : https://thehackingsage.com/hackdroid/apps/cryptography
+- DoS : https://thehackingsage.com/hackdroid/apps/dos
+- Forensics : https://thehackingsage.com/hackdroid/apps/forensics
+- Game Hacking : https://thehackingsage.com/hackdroid/apps/game-hacking
+- HID Attack : https://thehackingsage.com/hackdroid/apps/hid-attack
+- IDE / Coding : https://thehackingsage.com/hackdroid/apps/ide
+- Learning : https://thehackingsage.com/hackdroid/apps/learning
+- MITM : https://thehackingsage.com/hackdroid/apps/mitm
+- Nethunter : https://thehackingsage.com/hackdroid/apps/nethunter
+- Networking : https://thehackingsage.com/hackdroid/apps/networking
+- OSINT : https://thehackingsage.com/hackdroid/apps/osint
+- Pentesting : https://thehackingsage.com/hackdroid/apps/pentesting
+- Privacy : https://thehackingsage.com/hackdroid/apps/privacy
+- Remote Access : https://thehackingsage.com/hackdroid/apps/remote-access
+- RF-RTL-SDR : https://thehackingsage.com/hackdroid/apps/rf-rtl-sdr
+- Security : https://thehackingsage.com/hackdroid/apps/security
+- Sniffing : https://thehackingsage.com/hackdroid/apps/sniffing
+- Spy-cam : https://thehackingsage.com/hackdroid/apps/spy-cam
+- System-apps : https://thehackingsage.com/hackdroid/apps/system-apps
+- Terminal : https://thehackingsage.com/hackdroid/apps/terminal
+- Web : https://thehackingsage.com/hackdroid/apps/web
+- Whatsapp : https://thehackingsage.com/hackdroid/apps/whatsapp
+- Wireless : https://thehackingsage.com/hackdroid/apps/wireless
 
 ## Platforms :
 
-- Kali Nethunter : https://hackdroid.in/platform/nethunter
-- Pwn Phone : https://hackdroid.in/platform/pwnphone
-- Andrax : https://hackdroid.in/platform/andrax
+- Kali Nethunter : https://thehackingsage.com/hackdroid/platform/nethunter
+- Pwn Phone : https://thehackingsage.com/hackdroid/platform/pwnphone
+- Andrax : https://thehackingsage.com/hackdroid/platform/andrax
 
 Social Links : bit.ly/thehackingsage
 
